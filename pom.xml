@@ -7,7 +7,7 @@
 	<artifactId>graph-qa</artifactId>
 
     <packaging>jar</packaging>
-    <version>1.199.0</version>
+    <version>1.200.0</version>
     <name>graph-qa</name>
 
     <parent>
